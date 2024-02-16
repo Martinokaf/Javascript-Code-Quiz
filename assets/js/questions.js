@@ -42,7 +42,7 @@ const quizQuestions = [
         answers: ["Number","Event","Object","String"],
         correct: "Event"
     },{
-        title: "Which of the following is not a  a looping structures in JavaScript?",
+        title: "Which of the following is not a looping structures in JavaScript?",
         answers: ["Number","Do-while loops","While","For"],
         correct: "Number"
     },{
