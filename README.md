@@ -8,7 +8,7 @@ This JavaScript quiz gives the user a time limit to complete multiple-choice que
 
 This app runs in the browser, and features dynamically updated HTML and CSS powered by JavaScript.
 
-- To access the the quiz [follow the link]().
+- To access the the quiz [follow the link](https://martinokaf.github.io/Javascript-Code-Quiz/).
 - Open the link on your preferred web browser.
 - Explore the website by clicking the "START" button.
 
